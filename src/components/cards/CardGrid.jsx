@@ -65,7 +65,7 @@ export default function CardGrid() {
   return (
     <section className="bg-white py-20 px-6 md:px-12 lg:px-24">
       <div className="max-w-7xl mx-auto text-center mb-12">
-        <h2 className="text-7xl md:text-4xl font-extrabold text-gray-900">
+        <h2 className="text-3xl md:text-4xl font-extrabold text-gray-900">
           Comprehensive WhatsApp API and Marketing Solutions
         </h2>
         <p className="text-gray-600 mt-4 max-w-3xl mx-auto font-semibold text-2xl">

@@ -43,7 +43,7 @@ export default function FAQList() {
   return (
     <section className="w-full bg-gray-50 py-16 px-4 sm:px-6 lg:px-8">
       <div className="max-w-3xl mx-auto">
-        <h2 className="text-7xl md:text-4xl font-extrabold text-gray-900 mb-10 text-center">
+        <h2 className="text-3xl md:text-4xl font-extrabold text-gray-900 mb-10 text-center">
           Frequently Asked Questions
         </h2>
         <div className="space-y-6">

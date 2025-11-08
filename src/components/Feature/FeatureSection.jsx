@@ -23,7 +23,7 @@ const FeaturesSection = () => {
 
   return (
     <>
-      <section className="bg-green-500 h-120 py-16 px-6 sm:px-10">
+      <section className="bg-green-500 py-16 px-6 sm:px-10">
         <div className="max-w-6xl mx-auto flex justify-center items-center">
           <div className="grid grid-cols-1 sm:grid-cols-2 lg:grid-cols-3 gap-8 place-items-center">
             {features.map((f, index) => (

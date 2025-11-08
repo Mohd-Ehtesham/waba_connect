@@ -83,7 +83,7 @@ export default function CallbackModal({ onClose }) {
           <Button
             type="outline"
             onClick={onClose}
-            className="absolute top-4 right-4 text-gray-400 hover:text-gray-600 transition text-2xl"
+            className="absolute top-4 right-4 text-gray-400 hover:text-gray-600 transition text-2xl px-[5px] py-[2px]"
           >
             <X size={20} className="text-green-600" />
           </Button>
